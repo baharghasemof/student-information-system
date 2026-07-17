@@ -21,3 +21,13 @@ Bahar Ghasem Of
 - Better user interface
 - Error handling
 - Save data to a file
+
+## What I Learned
+
+Through this project, I learned:
+
+- How to create and organize a GitHub repository.
+- How to write a clear and structured README file.
+- How to upload and manage project files on GitHub.
+- How to document my work professionally.
+- The importance of version control and GitHub for software development.
