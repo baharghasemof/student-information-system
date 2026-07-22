@@ -13,6 +13,7 @@ The program asks the user for personal and educational information and displays 
 - User Input
 - If / Else
 - For Loop
+- Exception Handling (try/except)
 
 ## Author
 Bahar Ghasem Of
