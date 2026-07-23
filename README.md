@@ -9,7 +9,7 @@ The program asks the user for personal and educational information and displays 
 - Functions
 - Default Arguments
 - Keyword Arguments
-- **kwargs
+- *args and **kwargs
 - User Input
 - If / Else
 - For Loop
