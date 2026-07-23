@@ -3,13 +3,13 @@
 ## Description
 This is my first Python project.
 
-The program asks the user for personal and educational information and displays it in a formatted way.
+The Student Information System collects student information, validates user input, and displays the data in a clear and organized format.
 
 ## Features
 - Functions
 - Default Arguments
 - Keyword Arguments
-- *args and **kwargs
+- **kwargs
 - User Input
 - If / Else
 - For Loop
@@ -17,9 +17,39 @@ The program asks the user for personal and educational information and displays 
 - Exception Handling (try/except)
 - Input Validation
 - Age Verification
+- Formatted Output (f-strings)
 
-## Author
-Bahar Ghasem Of
+## What I Learned
+
+Through this project, I learned:
+
+- How to use functions to organize Python code.
+- How to use default arguments and **kwargs.
+- How to validate user input.
+- How to handle errors using try/except.
+- How to document a project with a professional README.
+
+## Version History
+
+### Version 1.0
+- Created the Student Information System.
+- Organized the code using functions.
+- Added student information input (name, age, country, city, major, and institution).
+- Displayed student information in a formatted output.
+
+### Version 1.2
+- Added default arguments.
+- Added keyword arguments (**kwargs).
+- Improved the output format.
+
+### Version 1.3
+- Added exception handling (try/except).
+- Added input validation.
+- Prevented empty names.
+- Prevented empty countries.
+- Prevented negative ages.
+- Prevented the program from crashing on invalid age input.
+- Improved the README file.
 
 ## Future Improvements
 - Better user interface
@@ -28,12 +58,5 @@ Bahar Ghasem Of
 - Add database support
 - Create a graphical user interface
 
-## What I Learned
-
-Through this project, I learned:
-
-- How to create and organize a GitHub repository.
-- How to write a clear and structured README file.
-- How to upload and manage project files on GitHub.
-- How to document my work professionally.
-- The importance of version control and GitHub for software development.
+## Author
+Bahar Ghasem Of
