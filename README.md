@@ -13,15 +13,20 @@ The program asks the user for personal and educational information and displays 
 - User Input
 - If / Else
 - For Loop
+- Global Variables
 - Exception Handling (try/except)
+- Input Validation
+- Age Verification
 
 ## Author
 Bahar Ghasem Of
 
 ## Future Improvements
 - Better user interface
-- Error handling
 - Save data to a file
+- Register multiple students
+- Add database support
+- Create a graphical user interface
 
 ## What I Learned
 
