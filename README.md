@@ -3,7 +3,7 @@
 ## Description
 This is my first Python project.
 
-The Student Information System collects student information, validates user input, and displays the data in a clear and organized format.
+The Student Information System collects, validates, and displays student information in a clear and organized format.
 
 ## Features
 - Functions
@@ -18,6 +18,7 @@ The Student Information System collects student information, validates user inpu
 - Input Validation
 - Age Verification
 - Formatted Output (f-strings)
+- Confirmation Before Saving
 
 ## What I Learned
 
@@ -28,6 +29,7 @@ Through this project, I learned:
 - How to validate user input.
 - How to handle errors using try/except.
 - How to document a project with a professional README.
+- How to improve a project step by step using GitHub commits.
 
 ## Version History
 
@@ -51,10 +53,17 @@ Through this project, I learned:
 - Prevented the program from crashing on invalid age input.
 - Improved the README file.
 
+## Version 1.4
+- Added confirmation before saving.
+- Improved input validation.
+- Validated user confirmation using yes/no.
+
 ## Future Improvements
-- Better user interface
-- Save data to a file
 - Register multiple students
+- Save data to a file
+- Search for student information
+- Edit student information
+- Delete student information
 - Add database support
 - Create a graphical user interface
 
