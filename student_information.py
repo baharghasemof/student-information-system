@@ -46,6 +46,15 @@ else:
                     major=major,
                     institution=institution
                 )
+                
+                answer = input("\nIs the information correct? (yes/no):")
+
+                if answer.lower() == "yes":
+                    print("Student information saved successfully.")
+
+                    print("Thank you for using the Student Information System.")
+                else:
+                    print("Please restart the program.")
 
     except:
         print("Invalid age! Please enter a number.")
